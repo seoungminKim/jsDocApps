@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "docdash": "^1.2.0",
+    "jsdoc": "^3.6.7"
+  }
+}
